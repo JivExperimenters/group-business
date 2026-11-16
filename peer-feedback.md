@@ -5,7 +5,7 @@
 | Team Member & GitHub Username | Assigned Split | Specific Responsibilities in `JivExperimenters/group-business` |
 | --- | --- | --- |
 | **Jivitesh Duddu (`@JivExperimenters`)** | **Development + Architecture + Co-QA** | Repo & VitePress/GitHub Pages setup, [Custom Ink](https://www.customink.com/help_center/get-a-price-quote) & [Printful](https://www.printful.com/bulk-custom-t-shirts) audit, reusing [IS117 Brand Studio](https://github.com/JivExperimenters/is117-brand-studio) & [T-Shirt](https://github.com/JivExperimenters/T-Shirt) patterns for B2B club quote math/SQLite queue, and QA cross-review of Design/Bonfire issues. |
-| **[Teammate 2 Name (`@github_username`)]** | **Design + UX + Co-QA** | [Bonfire](https://www.bonfire.com/tools/t-shirt-pricing-calculator/) audit, 4-field quote form + itemized **`DEMO ESTIMATE`** receipt wireframes, Brand Studio visual hierarchy, 15-second classmate walkthrough check, and QA cross-review of Development/Printful issues. |
+| **[Minh Nyugen (`mnguyenht`)]** | **Design + UX + Co-QA** | [Bonfire](https://www.bonfire.com/tools/t-shirt-pricing-calculator/) audit, 4-field quote form + itemized **`DEMO ESTIMATE`** receipt wireframes, Brand Studio visual hierarchy, 15-second classmate walkthrough check, and QA cross-review of Development/Printful issues. |
 
 ## 2. Cross-Review Workflow (`Peer Issue → Decision → Linked Commit → Verification → Retry`)
 
