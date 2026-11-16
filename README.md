@@ -40,12 +40,13 @@ Full dated observations and source-to-feature traces are in **[competitors.md](.
 * **Proposed Design Decision:** Build a **4-field Club Quote Form** (*Blank Shirt, Quantity, Ink Colors `1–4`, Date Needed*) that outputs an **itemized demo estimate** (blank subtotal + per-color screen setup/print estimate + rush/standard feasibility flag if `Date Needed < 14 days`) and saves the request into a **Shop Request List**.
 * **Planned Check (Not Yet Run):** Ask a classmate reviewer to open the [Custom Ink Quote Guide](https://www.customink.com/help_center/get-a-price-quote) and [Bonfire Calculator](https://www.bonfire.com/tools/t-shirt-pricing-calculator/), trace how the three cost drivers map to our 4-field form, and test whether a peer playing *Devon (Club Treasurer)* can read the itemized demo receipt and state the per-shirt cost and deadline status in under 15 seconds.
 
-## 5. Team Roles, Contributions & Peer Review
+## 5. Two-Person Team Roles, Cross-Review & Contributions
 
-| Team Member & GitHub Username | Assigned Role | Research, Review & Decision Contributions |
+This project is built by a **2-person team**, dividing **Design, Development, and QA** fairly so both members contribute research, code/docs, and cross-review verification:
+
+| Team Member & GitHub Username | Assigned Roles (Design, Dev & QA Split) | Research, Review & Decision Contributions |
 | --- | --- | --- |
-| **Jivitesh Duddu (`@JivExperimenters`)** | **Development & Architecture** | Created `JivExperimenters/group-business`, drafted the 3-site research (`Custom Ink`, `Bonfire`, `Printful`), Brand Studio alignment, and VitePress + GitHub Pages setup; leads backend/SQLite quote queue planning. |
-| **[Teammate 2 Name (`@github_username`)]** | **Design & UX** | *Assigned:* Audits competitor quote UI flows, leads Modernist quote-receipt layout and wireframe specs, and files/reviews GitHub Issues. |
-| **[Teammate 3 Name (`@github_username`)]** | **QA & Verification** | *Assigned:* Verifies source-to-claim accuracy, runs peer walkthrough checks on the itemized estimate math, and confirms reviewer retries before closing issues. |
+| **Jivitesh Duddu (`@JivExperimenters`)** | **Development, Architecture & Co-QA** | Created `JivExperimenters/group-business`, set up VitePress + GitHub Pages, audited [Custom Ink](https://www.customink.com/help_center/get-a-price-quote) and [Printful](https://www.printful.com/bulk-custom-t-shirts), adapted our [IS117 Brand Studio](https://github.com/JivExperimenters/is117-brand-studio) & [T-Shirt](https://github.com/JivExperimenters/T-Shirt) order-persistence patterns for club quotes, and cross-reviews Teammate 2's Design/Bonfire PRs & issues. |
+| **[Teammate 2 Name (`@github_username`)]** | **Design, UX & Co-QA** | Audits [Bonfire](https://www.bonfire.com/tools/t-shirt-pricing-calculator/) and club quote UI patterns, designs the Modernist 4-field quote intake + itemized **`DEMO ESTIMATE`** receipt layout, runs the 15-second classmate verification check, and cross-reviews `@JivExperimenters`\s research & quote-math issues. |
 
-*See **[peer-feedback.md](./peer-feedback.md)** for our GitHub Issues workflow and cross-review log.*
+*See **[peer-feedback.md](./peer-feedback.md)** for our GitHub Issues cross-review workflow and decision log.*
