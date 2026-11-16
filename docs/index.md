@@ -1,8 +1,10 @@
-# Club Merch Quotes: Research (IS117-007, group)
+# Historical Site Walk-Through: Club Merch Quotes (November 16, 2026)
 
 A quote-request site for student clubs that need custom shirts for an event: the officer sends the order details, gets an itemized estimate and a receipt, and the shop finds the request. **Working title; name not chosen yet.** Fictional business: no real printing, payments or customers.
 
-**Status:** first draft written by Claude (an AI assistant) on 2026-11-16. Not yet checked by a team member. Business idea chosen by Minh on 2026-11-16 from three AI-suggested options; the team's reason is not recorded yet.
+> This is the retained November 16 first-draft site walk-through. The current research record and decisions are in the [README](../README.md). This page's original comparison (including ooShirts), Jordan/Sam personas, and undecided audience are historical and superseded by the README's Custom Ink/Bonfire/Printful comparison, Devon/Elena persona hypotheses, and Position A. Delivery/rush observations and Boise State approval-process context are retained as dated research notes, not current product decisions.
+
+**Status at the time of this snapshot:** first draft written by Claude (an AI assistant) on 2026-11-16. The team had not yet recorded an audience choice or reviewed the sources.
 
 ## The question
 
@@ -108,7 +110,7 @@ Each row starts from an observation above. The decisions are proposals and the c
 | Evidence | Price factors and delivery windows above; Boise State's quote-then-approve steps | Bonfire's fundraising page |
 | Risk | Approval rules differ by school and NJIT's are unknown; a demo can't print or approve anything | Needs real payments (deferred by the class) and faces a free, established competitor |
 
-## Two persona hypotheses
+## First-draft persona hypotheses (superseded)
 
 | Persona hypothesis | Jordan, club event officer | Sam, fundraising chair |
 | --- | --- | --- |
@@ -118,9 +120,9 @@ Each row starts from an observation above. The decisions are proposals and the c
 | Evidence | Boise State steps; 16-day standard delivery; +15% to +50% rush fees | Bonfire's fundraiser model |
 | Assumption | Quantity, timing and funding source are guesses. No club officer interviewed; NJIT's process unknown. | All of it. No fundraising chair interviewed. |
 
-## Audience choice
+## Audience choice at the time (superseded)
 
-**Not chosen yet.** This is the team's decision, with the team's reason.
+**Not chosen yet in this first draft.** The current team decision is Position A in the [README](../README.md).
 
 AI suggestion for the team to accept or reject: Jordan and position A. Bonfire already owns position B for free, and B needs payments the class tells us to defer. A fits the class's one complete task: a visitor sends a request, gets a receipt, and the business finds it.
 
