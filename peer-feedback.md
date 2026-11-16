@@ -5,7 +5,7 @@
 | Team Member & GitHub Username | Assigned Split | Specific Responsibilities in `JivExperimenters/group-business` |
 | --- | --- | --- |
 | **Jivitesh Duddu (`@JivExperimenters`)** | **Development + Architecture + Co-QA** | Repo & VitePress/GitHub Pages setup, [Custom Ink](https://www.customink.com/help_center/get-a-price-quote) & [Printful](https://www.printful.com/bulk-custom-t-shirts) audit, reusing [IS117 Brand Studio](https://github.com/JivExperimenters/is117-brand-studio) & [T-Shirt](https://github.com/JivExperimenters/T-Shirt) patterns for B2B club quote math/SQLite queue, and QA cross-review of Design/Bonfire issues. |
-| **[Minh Nyugen (`mnguyenht`)]** | **Design + UX + Co-QA** | [Bonfire](https://www.bonfire.com/tools/t-shirt-pricing-calculator/) audit, 4-field quote form + itemized **`DEMO ESTIMATE`** receipt wireframes, Brand Studio visual hierarchy, 15-second classmate walkthrough check, and QA cross-review of Development/Printful issues. |
+| **[Minh Nguyen (`mnguyenht`)]** | **Design + UX + Co-QA** | [Bonfire](https://www.bonfire.com/tools/t-shirt-pricing-calculator/) audit, 5-field quote form with separate front/back color inputs + itemized **`DEMO ESTIMATE`** receipt wireframes, Brand Studio visual hierarchy, 15-second classmate walkthrough check, and QA cross-review of Development/Printful issues. |
 
 ## 2. Cross-Review Workflow (`Peer Issue → Decision → Linked Commit → Verification → Retry`)
 
@@ -17,4 +17,6 @@
 
 | Issue | Reviewer & Observation | Decision & Linked Change | Verification & Retry Status |
 | --- | --- | --- | --- |
-| *Pending partner / class review* | Open [Issues tab](https://github.com/JivExperimenters/group-business/issues) to log cross-reviews between `@JivExperimenters` and `@[github_username]` (tracing one finding from `competitors.md` into `README.md` Section 4). | — | Open; awaiting partner/classmate issues. |
+| [#6 — Source check](https://github.com/JivExperimenters/group-business/issues/6) | Corrected the Custom Ink claims, identified the price ranges as illustrative, separated Printful's source-specific discount ceilings, corrected the Bonfire campaign interpretation, and fixed team-name typos. | Implemented in this change. | Docs build and rendered-page review; awaiting reviewer retry. |
+| [#7 — Print sides in quote form](https://github.com/JivExperimenters/group-business/issues/7) | Split front and back ink colors into separate fields and added a one-side vs. two-side estimate comparison to the planned check. | Implemented in the proposed design and check; application behavior remains unbuilt. | Docs build; estimate comparison remains a planned product check. |
+| [#8 — Conflicting research records](https://github.com/JivExperimenters/group-business/issues/8) | Kept `docs/` as a linked November 16 historical site walk-through and marked its first-draft personas and competitor selection as superseded by the README. | Implemented; useful delivery/rush and Boise State context retained. | Docs build and rendered-page review; awaiting reviewer retry. |
